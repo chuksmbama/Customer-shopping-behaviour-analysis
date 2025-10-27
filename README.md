@@ -20,6 +20,6 @@ This Customer Shopping Analysis Dashboard provides a comprehensive view of custo
 - Python: Data cleaning and aggregation
 
 ## Conclusion 
-he upward sales trend proves strong customer interest, but long-term success depends on boosting subscriptions and satisfaction.
+The upward sales trend proves strong customer interest, but long-term success depends on boosting subscriptions and satisfaction.
 
 <img width="1494" height="838" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/d2407d37-4f2b-4d4f-8eca-0b74349dcfbe" />
