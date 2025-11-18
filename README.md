@@ -3,4 +3,5 @@ This Customer Shopping Analysis Dashboard provides a comprehensive view of custo
 
 
 
-<img width="1494" height="838" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/d2407d37-4f2b-4d4f-8eca-0b74349dcfbe" />
+<img width="1489" height="831" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/2449db62-c7d3-4fd7-986e-248a2f40eb49" />
+
